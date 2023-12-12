@@ -1,6 +1,12 @@
 # Drink list coding challenge
 
-This is a coding challenge to test basic JavaScript, HTML and CSS skills.
+This is a coding challenge to test basic JavaScript, HTML and CSS skills. You can view the starting point of the challenge at:
+
+https://lucaarisci.github.io/Drink_list_coding_challenge/starter
+
+and the final result at:
+
+https://lucaarisci.github.io/Drink_list_coding_challenge/final
 
 ## TEST
 
